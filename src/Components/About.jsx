@@ -46,7 +46,7 @@ const About = () => {
             Who am I?
           </h1>
           <p className="text-lg leading-relaxed text-gray-200">
-            Hi, I’m Dawit, a passionate programmer and aspiring entrepreneur. I’ve been coding for over two years, exploring the world of web development and full-stack solutions. My mission is not just to write code, but to build products and services that make a difference for businesses and people.
+          I’m Dawit, a full-stack developer fully immersed in building digital solutions. I create web apps and tools that drive real impact for businesses and ecosystems. Every project I work on is designed to enhance experiences, and add tangible value. I’m constantly exploring new technologies and ideas, always building and improving to make a difference in the digital world.
           </p>
         </div>
 
