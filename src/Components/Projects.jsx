@@ -82,7 +82,7 @@ const Projects = () => {
           />
           <div className="absolute inset-0 flex items-center justify-center gap-6 opacity-0 group-hover:opacity-100 transition duration-300">
             <a
-              href="https://velora.vercel.app"
+              href="https://velora-sooty.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 bg-white text-black rounded-full hover:scale-110 transition"
@@ -112,7 +112,7 @@ const Projects = () => {
           />
           <div className="absolute inset-0 flex items-center justify-center gap-6 opacity-0 group-hover:opacity-100 transition duration-300">
             <a
-              href="https://byteflow.vercel.app"
+              href="https://byteflow-forum.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 bg-white text-black rounded-full hover:scale-110 transition"
