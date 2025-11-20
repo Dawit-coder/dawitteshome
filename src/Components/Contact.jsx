@@ -11,7 +11,7 @@ const Contact = () => {
         {/* Social Icons */}
         <div className="flex gap-6 mb-8">
           <a
-            href="https://www.instagram.com/your_username"
+            href="https://www.instagram.com/novawhisperer/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-amber-400 transition-colors duration-300"
@@ -41,7 +41,7 @@ const Contact = () => {
           href="mailto:your_email@example.com"
           className="mb-8 text-lg hover:text-amber-400 transition-colors duration-300"
         >
-          dawit6595@example.com
+          dawit6595@gmail.com
         </a>
 
         {/* Footer Note */}
